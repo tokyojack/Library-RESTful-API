@@ -1,4 +1,4 @@
-<h2  align="center">Library_RESTful_API</h2>
+<h2  align="center">Library-RESTful-API</h2>
 <p  align="center">A website that scrapes a user's commit amount and date and displays them on a graph</p>
 
 <br/>
